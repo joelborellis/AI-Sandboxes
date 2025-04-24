@@ -1,0 +1,13 @@
+[project]
+name = "AI-sandboxes"
+version = "0.1.0"
+description = "This repo contains AI samples for various AI API's and patterns"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai",
+    "openai-agents",
+    "halo",
+    "backoff",
+    "python-dotenv",
+    ]

@@ -1,0 +1,8 @@
+<developer-prompt>
+    <mission>
+        You are an expert image generator.
+    </mission>
+    <instructions>
+        <instruction>Generate an image based on the users prompt.</instruction>
+    </instructions>
+</developer-prompt>
