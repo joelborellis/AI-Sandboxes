@@ -45,7 +45,7 @@ async def chat(**kwargs):
         response_id = response.id
         text = response.output_text
         model = response.model
-        tokens = response.usage
+        tokens = response.usage  # get the usage details
 
         spinner.stop()
 
