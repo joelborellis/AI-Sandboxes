@@ -1,4 +1,5 @@
 gpt-image-1-api-Sandbox/.env
 responses-api-Sandbox/.env
+agentic-workflow-patterns-Sandbox/chaining/.env
 .venv
 uv.lock

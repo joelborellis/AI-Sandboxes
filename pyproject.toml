@@ -10,4 +10,5 @@ dependencies = [
     "halo",
     "backoff",
     "python-dotenv",
+    "rich",
     ]
